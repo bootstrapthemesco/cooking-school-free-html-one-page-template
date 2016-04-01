@@ -6,8 +6,8 @@
 
 
 Cooking School is a Clean Responsive One Page Cooking HTML5 Template Designed with BootStrap and Developed by Bootstrap Themes. 
-Cooking School is suitable for Restaurants, Caf�, Bakery, Catering, Chef, Cooking and Bars websites. 
-If you are a owner of small Restaurants, Caf� and bar you can choose Cooking School for your Website. 
+Cooking School is suitable for Restaurants, Cafe, Bakery, Catering, Chef, Cooking and Bars websites. 
+If you are a owner of small Restaurants, Cafe and bar you can choose Cooking School for your Website. 
 We have added all most important section for any Restaurant. Cooking School completely designed with latest trends of Web Design and Technology.
 
 
