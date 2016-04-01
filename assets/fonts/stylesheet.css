@@ -1,0 +1,57 @@
+
+
+@font-face {
+    font-family: 'robotobold';
+    src: url('roboto-bold.eot');
+    src: url('roboto-bold.eot?#iefix') format('embedded-opentype'),
+         url('roboto-bold.woff2') format('woff2'),
+         url('roboto-bold.woff') format('woff'),
+         url('roboto-bold.ttf') format('truetype'),
+         url('roboto-bold.svg#robotobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotomedium';
+    src: url('roboto-medium.eot');
+    src: url('roboto-medium.eot?#iefix') format('embedded-opentype'),
+         url('roboto-medium.woff2') format('woff2'),
+         url('roboto-medium.woff') format('woff'),
+         url('roboto-medium.ttf') format('truetype'),
+         url('roboto-medium.svg#robotomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('roboto-regular.eot');
+    src: url('roboto-regular.eot?#iefix') format('embedded-opentype'),
+         url('roboto-regular.woff2') format('woff2'),
+         url('roboto-regular.woff') format('woff'),
+         url('roboto-regular.ttf') format('truetype'),
+         url('roboto-regular.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+@font-face {
+    font-family: 'latoregular';
+    src: url('lato-regular-webfont.eot');
+    src: url('lato-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('lato-regular-webfont.woff2') format('woff2'),
+         url('lato-regular-webfont.woff') format('woff'),
+         url('lato-regular-webfont.ttf') format('truetype'),
+         url('lato-regular-webfont.svg#latoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
