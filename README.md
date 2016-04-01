@@ -2,7 +2,7 @@
 
 
 
-####http://bootstrapthemes.co/item/cooking-school-free-html5-page-template/
+####[Demo](http://bootstrapthemes.co/item/cooking-school-free-html5-page-template/)
 
 
 Cooking School is a Clean Responsive One Page Cooking HTML5 Template Designed with BootStrap and Developed by Bootstrap Themes. 
